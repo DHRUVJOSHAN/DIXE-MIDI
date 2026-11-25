@@ -1,0 +1,6 @@
+{
+  "name": "DIXE MIDI",
+  "description": "Precision touchscreen USB MIDI keyboard controller with position-based velocity, multitouch glide, sustain, pitch bend, and modulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
